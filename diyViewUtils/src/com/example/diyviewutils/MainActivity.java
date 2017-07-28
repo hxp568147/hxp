@@ -31,6 +31,7 @@ public class MainActivity extends Activity {
 	@onClick({R.id.bt1,R.id.bt2})
 	public void button(View view){
 		Toast.makeText(this, "hahahahahahah", Toast.LENGTH_SHORT).show();
+		Toast.makeText(this, "hahahahahahah", Toast.LENGTH_SHORT).show();
 	}
 	
 }
