@@ -32,6 +32,7 @@ public class MainActivity extends Activity {
 	public void button(View view){
 		Toast.makeText(this, "hahahahahahah", Toast.LENGTH_SHORT).show();
 		Toast.makeText(this, "hahahahahahah", Toast.LENGTH_SHORT).show();
+		Toast.makeText(this, "hahahahahahah", Toast.LENGTH_SHORT).show();
 	}
 	
 }
